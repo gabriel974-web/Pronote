@@ -24,6 +24,7 @@
     "@blockshub/blockscho": "^0.1.0",
     "@blockshub/blocksdirecte": "^0.0.8-alpha",
     "@blockshub/blocksrd": "^0.1.0",
+    "@lottiefiles/dotlottie-react": "^0.6.2",
     "@bottom-tabs/react-navigation": "^0.11.2",
     "@callstack/liquid-glass": "^0.4.3",
     "@eslint/js": "^9.39.1",
